@@ -19,8 +19,8 @@ But we must delete this background, or the bodymask might be messed up.
 
 Save it as a **.png** file, name it, let's say, "vagina".
 
-## In Unity
-Let's go to your Unity with hooh's Modding Tools already installed in it.
+## Mod It
+Let's go to your Unity Editor with hooh's Modding Tools already installed in it.
 
 Create an **Empty** object in Hierarchy view. It's automatically named "GameObject".
 
@@ -65,4 +65,8 @@ Outside the prefabs folder, create an xml (sxml) file. Edit it by using this scr
 </build>
 </packer>
 ```
-Just feel free to change <guid>, <name>, <version>, <author> and <description>. As it was told, only top has bodymask functioning on body, so we use <list type="ftop"> standing for "female top". In the tag <item>, the field mesh-a is the name of the prefab you created. You have to create a prefab, even for an empty object, otherwise hooh tools cannot pack it into a mod. 
+Just feel free to change <guid>, <name>, <version>, <author> and <description>. As it was told, only top has bodymask functioning on body, so we use <list type="ftop"> standing for "female top". In the tag <item>, the field "**mesh-a**" is the file name of the prefab you have in the prefabs folder. You have to create a prefab, even for an empty object, otherwise hooh tools cannot pack it into a mod. The field "**bodymask-tex**" is the file name of the png image in the prefabs folder.
+
+For other fields, please check: https://hooh-hooah.github.io/#/technical/category-list-female?id=female-top . 
+
+With everything above, you can now **Build** the mod.
