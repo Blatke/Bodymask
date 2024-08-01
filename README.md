@@ -27,5 +27,5 @@ Please **reload** her on the Chara tab to recover it.
 It culls the whole chara's body.
 ![2024-08-01_182744](https://github.com/user-attachments/assets/81c21edf-f89e-4590-9814-c9d75d85d0c8)
 ### Vagina
-It culls the chara's body expect her vagina and anal.
+It culls the chara's body except her vagina and anal.
 ![2024-08-01_183102](https://github.com/user-attachments/assets/02ac192b-751a-4ff9-bc8d-b7ee63040586)
