@@ -1,2 +1,2 @@
 # Bodymask
-A HS2/AI-Shoujo clothes mod for culling chara's body.
+This is a HS2/AI-Shoujo clothes mod for culling chara's body.
