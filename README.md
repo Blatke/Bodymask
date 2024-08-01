@@ -1,5 +1,7 @@
 # Bodymask
 Most modders create their tops with putting bodymask in them in order to cull body parts to prevent clipping between top and body. However, bodymask only functions for top instead of other clothes slots, by which reason when a pair of shoes are combined with a full-body tight or latex, it cannot add bodymask into the shoes and thus might leave the tight clipping with the body.
+
+
 This is a HS2/AI-Shoujo clothes mod for culling chara's body off the rendering process. Simply, it makes some body parts invisible. When wearing that sort of shoes with full-body tight, you can also add this bodymask in the Top slot to hide the body.
 
 ## How to Use
