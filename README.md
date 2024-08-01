@@ -4,6 +4,8 @@ Most modders create their tops with putting bodymask in them in order to cull bo
 
 This is a HS2/AI-Shoujo clothes mod for culling chara's body off the rendering process. Simply, it makes some body parts invisible. When wearing that sort of shoes with full-body tight, you can also add this bodymask in the Top slot to hide the body.
 
+If you're already a modder and don't know how to make bodymask, please check: https://github.com/Blatke/Bodymask/blob/main/How%20to%20mod%20it%3F%20-%20For%20Modders.md .
+
 ## How to Use
 1. Download the .zipmod file for the latest version on the **[Release](https://github.com/Blatke/Bodymask/releases)** page, and install it like how you install any other mods.
 2. In Chara Maker Mode, go to the **Top** tab on the Outfit panel, and search for "**bodymask**" in the searching box. Add it to your chara.
