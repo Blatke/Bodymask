@@ -70,3 +70,6 @@ Just feel free to change <guid>, <name>, <version>, <author> and <description>. 
 For other fields, please check: https://hooh-hooah.github.io/#/technical/category-list-female?id=female-top . 
 
 With everything above, you can now **Build** the mod.
+
+Then, we got a culled body without vagina and anal being hidden:
+![image](https://github.com/user-attachments/assets/1d0347a4-5506-46d6-bcd3-8bdc483f9608)
